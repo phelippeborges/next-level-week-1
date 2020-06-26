@@ -2,7 +2,13 @@
 
 <h1 align="center"> 🚀 next-level-week-1 </h1>
 <p align="center"> Project build during Next Level Week #01 from RocketSeat </p>
-<p align="center"><img src="https://img.shields.io/static/v1?label=Author&message=phelippeborges&color=important&style=flat&logo=DEV.TO"/></p>
+
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/phelippeborges/next-level-week-1?color=%2304D361">
+    <a href="https://github.com/phelippeborges">
+        <img src="https://img.shields.io/static/v1?label=madeBy&message=phelippeborges&color=important&style=flat&logo=DEV.TO"/>
+    </a>
+</p>
 
 </br>
 
@@ -15,7 +21,10 @@
     <img src="/extra/web_create_point.png" width="110px" height="150px"</img>
     <img src="/extra/web_video.gif" width="260px" height="150px"</img> 
 </div>
+
 </br>
+
+---
 
 ## ⌨️ Languages:
 ### JavaScript/ TypeScript
@@ -66,3 +75,7 @@
  `npm start`
 ### Mobile
  `npm start`
+
+---
+
+Power by Phelippe O. Borges
