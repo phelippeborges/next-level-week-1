@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.dribbble.com/users/1986561/screenshots/11226328/nlw_dribbble.png" width="300" height="230"/></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1986561/screenshots/11226328/nlw_dribbble.png" width="300px" height="230px"/></p>
 
 <h1 align="center"> 🚀 next-level-week-1 </h1>
 <p align="center"> Project build during Next Level Week #01 from RocketSeat </p>
@@ -6,13 +6,22 @@
 
 </br>
 
-
-
+<div align="center">
+    <img src="/extra/mobile_home.jpeg" width="80px" height="150px"</img>  
+    <img src="/extra/mobile_points.jpeg" width="80px" height="150px"</img> 
+    <img src="/extra/mobile_detail.jpeg" width="80px" height="150px"</img> 
+    <img src="/extra/mobile_video.gif" width="80px" height="150px"</img>  
+    <img src="/extra/web_home.png" width="260px" height="150px"</img> 
+    <img src="/extra/web_create_point.png" width="110px" height="150px"</img>
+    <img src="/extra/web_video.gif" width="260px" height="150px"</img> 
+</div>
 </br>
 
 ## ⌨️ Languages:
 ### JavaScript/ TypeScript
-<img src="https://img.shields.io/static/v1?label=javascript&message=lang&color=yellow&style=flat&logo=JAVASCRIPT"/> <img src="https://img.shields.io/static/v1?label=typescript&message=lang&color=lightgray&style=flat&logo=TYPESCRIPT"/> 
+<img src="https://img.shields.io/static/v1?label=Javascript&message=lang&color=yellow&style=flat&logo=JAVASCRIPT"/> <img src="https://img.shields.io/static/v1?label=Typescript&message=lang&color=lightgray&style=flat&logo=TYPESCRIPT"/> 
+### CSS/ HTML
+<img src="https://img.shields.io/static/v1?label=CSS&message=lang&color=blue&style=flat&logo=CSS3"/> <img src="https://img.shields.io/static/v1?label=HTML&message=lang&color=orange&style=flat&logo=HTML5"/>
 
 </br>
 
